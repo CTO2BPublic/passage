@@ -4,7 +4,7 @@ on:
     branches:
       - master
       - main
-      - cicd
+      - feat/cicd
 permissions:
   contents: write
 jobs:
