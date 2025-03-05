@@ -1,4 +1,5 @@
 site_name: Passage
+site_url: https://cto2bpublic.github.io/passage/
 
 theme:
   name: material
